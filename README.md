@@ -33,7 +33,7 @@ php artisan key:generate
 Sesuaikan konfigurasi database di file `.env`, lalu jalankan migration:
 
 ```bash
-php artisan migrate
+php artisan migrate dan php artisan db:seed
 ```
 
 ### 6. Install Dependencies Frontend
