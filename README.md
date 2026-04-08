@@ -59,12 +59,3 @@ Jalankan Vite untuk development frontend:
 ```bash
 npm run dev
 ```
-
-
-
-
----
-
-## 📄 Lisensi
-
-Project ini menggunakan lisensi sesuai kebutuhan Anda.
